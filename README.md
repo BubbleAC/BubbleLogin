@@ -54,9 +54,3 @@ database:
     database: "bubblelogin"
     username: "root"
     password: ""
-
----
-
-## ❤️ Credits
-Developed by BubbleAC
-If you like it, leave a ⭐ on GitHub!
