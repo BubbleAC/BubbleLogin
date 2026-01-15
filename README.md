@@ -6,7 +6,7 @@ Supports **SQLite, MySQL/MariaDB** and optional **Proxy mode** (Bungee / Velocit
 
 ---
 
-## ✨ Features
+## Features
 
 - Secure password hashing (BCRYPT, ARGON2, SHA512)
 - SQLite & MySQL support  
@@ -20,13 +20,13 @@ Supports **SQLite, MySQL/MariaDB** and optional **Proxy mode** (Bungee / Velocit
 
 ---
 
-## 📥 Download
+## Download
 
 ➡ **[Click here to download the latest version](https://github.com/BubbleAC/BubbleLogin/releases/latest)**
 
 ---
 
-## ⚙ Installation
+## Installation
 
 1. Download the `.jar` file  
 2. Put it in your `plugins/` folder  
@@ -36,7 +36,7 @@ Supports **SQLite, MySQL/MariaDB** and optional **Proxy mode** (Bungee / Velocit
 
 ---
 
-## 🗄 Database Setup
+## Database Setup
 
 ### SQLite (Default)
 No setup needed.  
